@@ -1,0 +1,13 @@
+1673792223095	geckodriver	INFO	Listening on 127.0.0.1:61896
+1673792225044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Predator\\AppData\\Local\\Temp\\rust_mozprofile7kssXb"
+1673792225537	Marionette	INFO	Marionette enabled
+1673792225543	Marionette	INFO	Listening on port 61907
+Read port: 61907
+WebDriver BiDi listening on ws://127.0.0.1:61897
+1673792225661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Predator\\AppData\\Local\\Temp\\rust_mozprofile7kssXb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61897/devtools/browser/d6943109-777c-4199-9d8c-c994310ed204
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/f9de3074f02b445bc00da382c19000b439e12633.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+1673792651902	Marionette	INFO	Stopped listening on port 61907
